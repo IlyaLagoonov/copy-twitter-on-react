@@ -1,3 +1,4 @@
+![Анимация](https://user-images.githubusercontent.com/105582256/177287601-3aff0159-9439-4409-945e-f6b43f855419.gif)
 <h2>Простой аналог твиттера на основе react</h2>
 <h3>Основной функционал:</h3>
 <ul>
@@ -17,4 +18,4 @@
         Счетчик постов  
     </li>
 </ul>
-![gif](https://github.com/IlyaLagoonov/copy-twitter-on-react/blob/main/%D0%90%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F.gif)
+
