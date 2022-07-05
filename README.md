@@ -1,1 +1,20 @@
-# copy-twitter-on-react
+<h2>Простой аналог твиттера на основе react</h2>
+<h3>Основной функционал:</h3>
+<ul>
+  <li>
+    Добавление/удаление постов
+  </li>
+   <li>
+    Возможность лайкнуть/добавить в избранное
+  </li>
+    <li>
+        Фильтрация постов
+    </li>
+     <li>
+        Поиск по ключевым словам 
+    </li>
+     <li>
+        Счетчик постов  
+    </li>
+</ul>
+![image](https://github.com/IlyaLagoonov/copy-twitter-on-react/blob/main/%D0%90%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F.gif)
